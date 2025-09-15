@@ -1,4 +1,3 @@
-# save as cv_baseline.py
 import cv2
 import numpy as np
 import argparse
