@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore compiled files and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore large platform-specific binaries
+*.dll
+*.so
+*.dylib
+
+# Ignore system files
+.DS_Store
+Thumbs.db
